@@ -26,7 +26,7 @@
 
 [Try VideoJev-4B on ModelScope Studio ↗](https://modelscope.cn/studios/MCG-NJU/VideoJev-Demo)
 
-https://github.com/user-attachments/assets/e603d76e-b485-4ac6-aafe-3752bda9f19b
+https://github.com/user-attachments/assets/b8acb023-26d5-4940-bde1-2d623bc019fe
 
 <details>
 <summary><strong>Architecture</strong></summary>
